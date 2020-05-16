@@ -17,3 +17,5 @@ Building Book Recommendation system. :
         - Memory Based
         - Model Based
       4. Content Based recommendations.
+
+Please refer to Capstone_Project_2_FInal.ipynb file for final project report.
